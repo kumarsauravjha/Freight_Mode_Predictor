@@ -5,6 +5,7 @@ Predict the most likely transport mode for your international shipment based on 
 ---
 
 ## 🚀 Live Demo
+![App Screenshot](app_photo.png)
 
 Hosted for free on Hugging Face Spaces:
 
